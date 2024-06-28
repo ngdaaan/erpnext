@@ -2,7 +2,7 @@
 Custom Frappe ERPNext image.
 Apps.json
 
-'''
+```
 [
     {
       "url": "https://github.com/frappe/erpnext.git",
@@ -33,4 +33,4 @@ Apps.json
       "branch": "version-15"
     }
 ]
-'''
+```
